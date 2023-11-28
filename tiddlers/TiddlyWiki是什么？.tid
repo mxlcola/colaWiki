@@ -1,6 +1,6 @@
 created: 20231125124612166
 creator: 老乐
-modified: 20231125125043828
+modified: 20231127143248506
 modifier: 老乐
 tags: TiddlyWiki背景介绍
 title: TiddlyWiki是什么？
@@ -9,4 +9,4 @@ TiddlyWiki 是一款开源的非线性的''原子化笔记软件''。第一个�
 
 开箱即用的版本：太记
 
-TiddlyWiki，它能够实现真正的[[卡片笔记]]，并且还能通过插件实现 Anki 式复习和任务管理
+TiddlyWiki，它能够实现真正的[[卡片笔记法]]，并且还能通过插件实现 Anki 式复习和任务管理
