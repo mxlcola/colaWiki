@@ -1,7 +1,18 @@
 created: 20231127145143569
 creator: 老乐
-modified: 20231127145246302
+difficulty: 5
+due: 20241101132230100
+grade: -1
+history: []
+interval: 0
+lapses: 0
+modified: 20241030132230100
 modifier: 老乐
+reps: 1
+retrievability: 1
+review: 20241030132230099
+stability: 2
+tags: ?
 title: 钓鱼插件
 
 把笔记条目作为[[抽认卡]]进行渐进学习，并结合[[双链]]自动设置前置重要知识的优先级，以提升渐进学习体验。

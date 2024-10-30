@@ -1,17 +1,17 @@
 created: 20231125140045932
 creator: 老乐
-difficulty: 4.200481484082612
-due: 20240628022415885
+difficulty: 4.14211686976537
+due: 20250715131525836
 grade: 1
-history: [{"due":"20231130131248790","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231128131248790"}]
-interval: 145
+history: [{"due":"20231130131248790","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20231128131248790"},{"due":"20240628022415885","interval":145,"difficulty":4.200481484082612,"stability":67.67944056179094,"retrievability":0.00048148408261157477,"grade":1,"lapses":0,"reps":2,"review":"20240421022415885"}]
+interval: 192
 lapses: 0
-modified: 20240421022415885
+modified: 20241030131525836
 modifier: 老乐
-reps: 2
-retrievability: 0.00048148408261157477
-review: 20240421022415885
-stability: 67.67944056179094
+reps: 3
+retrievability: 0.7416353856827572
+review: 20241030131525836
+stability: 258.22746989216586
 tags: 卡片笔记法 卢曼笔记 ?
 title: 卡片笔记的误区
 

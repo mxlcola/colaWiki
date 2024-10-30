@@ -1,17 +1,17 @@
 created: 20231125124612166
 creator: 老乐
-difficulty: 5
-due: 20240423022348322
-grade: -1
-history: []
-interval: 0
+difficulty: 4.200040483766023
+due: 20250106131508662
+grade: 1
+history: [{"due":"20240423022348322","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240421022348322"}]
+interval: 192
 lapses: 0
-modified: 20240421022348322
+modified: 20241030131508662
 modifier: 老乐
-reps: 1
-retrievability: 1
-review: 20240421022348322
-stability: 2
+reps: 2
+retrievability: 0.000040483766022843354
+review: 20241030131508662
+stability: 67.73011561350621
 tags: TiddlyWiki背景介绍 ?
 title: TiddlyWiki是什么？
 
