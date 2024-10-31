@@ -6,14 +6,16 @@ grade: -1
 history: []
 interval: 0
 lapses: 0
-modified: 20241031054215150
-modifier: 老乐
+modified: 20241031144104508
+modifier: mxlcola
 reps: 1
 retrievability: 1
 review: 20241031054215150
 stability: 2
-tags: 基础知识 ?
+tags: 基础知识 ? 引用
 title: Tiddler
 
 
-Tiddler 就是一个基本的元素，基本上可以理解它为一个页面，就像其他笔记软件的一篇笔记一样。
+在 TiddlyWiki 里，每一个条目叫做 Tiddler ，它可以是一个知识点、可以是一张图片、也可以是源代码等等。
+
+可以把它们进行连结（例如` [[咖啡]]`），也可以把一个 Tiddler 的内容直接嵌入到另一个 Tiddler 里（例如 `{{咖啡}}`）
