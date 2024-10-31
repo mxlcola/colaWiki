@@ -1,11 +1,10 @@
 created: 20241030144701721
 creator: 老乐
-modified: 20241030145220042
+modified: 20241031003520531
 modifier: 老乐
 tags: 图片 图床
 title: tw图床用法
-
-
+wysiwyg: yes
 
 我们可以把图片放到其他图床去把图片外部化，然后插入` [img[图片连结]]`  来放入图片。
 例子
@@ -15,6 +14,4 @@ title: tw图床用法
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]
 
 ```
-
-
 [img[https://tc8483.oss-cn-beijing.aliyuncs.com/img/20241030224857.png]]
