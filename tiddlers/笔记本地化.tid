@@ -1,0 +1,13 @@
+created: 20241101150435923
+creator: mxlcola
+modified: 20241101150643190
+modifier: mxlcola
+tags: 笔记软件思考
+title: 笔记本地化
+
+
+''基本需求：''
+
+# 数据存在于本地
+# 单独一个笔记就是一个文件，而不是放在数据库
+# 格式通用（txt、Markdown等）
