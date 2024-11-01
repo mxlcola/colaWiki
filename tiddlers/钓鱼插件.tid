@@ -1,17 +1,17 @@
 created: 20231127145143569
 creator: 老乐
-difficulty: 5
-due: 20241101132230100
-grade: -1
-history: []
-interval: 0
+difficulty: 5.1000000000000005
+due: 20241107022839125
+grade: 1
+history: [{"due":"20241101132230100","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20241030132230099"}]
+interval: 2
 lapses: 0
-modified: 20241030132230100
+modified: 20241101023027027
 modifier: 老乐
-reps: 1
-retrievability: 1
-review: 20241030132230099
-stability: 2
+reps: 2
+retrievability: 0.9
+review: 20241101022839124
+stability: 5.512139752431654
 tags: ?
 title: 钓鱼插件
 
@@ -19,3 +19,5 @@ title: 钓鱼插件
 
 !! 为什么被称作钓鱼？
 既然在 TiddlyWiki 中 Tiddler（笔记条目）的形象说法是故事河中的小鱼，那么就把将其勾入脑海中的插件叫做钓鱼。
+
+插件作者使用的是理论上超 Anki 赶 SuperMemo 的 FSRS 自由间隔重复调度算法。

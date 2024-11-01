@@ -6,7 +6,7 @@ grade: 1
 history: [{"due":"20240423022348322","interval":0,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240421022348322"}]
 interval: 192
 lapses: 0
-modified: 20241031145515286
+modified: 20241101022608458
 modifier: mxlcola
 reps: 2
 retrievability: 0.000040483766022843354
