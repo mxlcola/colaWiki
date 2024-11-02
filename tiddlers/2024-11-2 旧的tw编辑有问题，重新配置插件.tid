@@ -1,0 +1,10 @@
+created: 20241102053345253
+creator: mxlcola
+modified: 20241102053547646
+modifier: mxlcola
+tags: APrivateContent 日志
+title: 2024-11-2 旧的tw编辑有问题，重新配置插件
+
+旧的条目编辑存在问题
+
+主要是编辑的时候，上方加粗、标题等工具项 会影响标签使用和文本编辑，默认显示在最上方，导致编辑困难
